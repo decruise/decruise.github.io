@@ -25,12 +25,44 @@
         </div>
 
         <ul class="nav_options">
-            <li class="nav_option" onclick="js_func_name()"><a class="nav_link" href="about.html">about</a></li>
-            <li class="nav_option" onclick="js_func_name()"><a class="nav_link" href="logs.html">logs</a></li>
+            <li class="nav_option" onclick="js_func_name()"><a class="nav_link" href="about">about</a></li>
+            <li class="nav_option" onclick="js_func_name()"><a class="nav_link" href="logs">logs</a></li>
         </ul>
     </div>
 
     <div class="main_content">
+        <div id="log_2">
+            <br>
+            <br>
+            <br>
+
+            <h1>Week 2</h1>
+
+            <h3>Sep 22 - 28</h3>
+
+            <h2>Key Things Completed</h2>
+
+            <ul class="body_list">
+                <li>Conducted full needs analysis and identified areas for improvement.</li>
+                <li>Researched potential solutions and existing patents.</li>
+                <li>Some website updates.</li>
+            </ul>
+
+            <br>
+
+            <h2>To-do Next Week</h2>
+
+            <ul class="body_list">
+                <li>Finish website updates.</li>
+                <li>Select best solutions to target with this project.</li>
+                <li>Research what would go into building each solution.</li>
+            </ul>
+        </div>
+
+        <br>
+        <br>
+        <br>
+
         <div id="log_1">
             <br>
             <br>
@@ -67,6 +99,10 @@
                 <li><a target="_blank" href="https://github.com/long-board/long-board.github.io">Website Repository</a></li>
             </ul>
         </div>
+
+        <br>
+        <br>
+        <br>
     </div>
 </body>
 

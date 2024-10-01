@@ -25,8 +25,8 @@
         </div>
 
         <ul class="nav_options">
-            <li class="nav_option" onclick="js_func_name()"><a class="nav_link" href="about.html">about</a></li>
-            <li class="nav_option" onclick="js_func_name()"><a class="nav_link" href="logs.html">logs</a></li>
+            <li class="nav_option" onclick="js_func_name()"><a class="nav_link" href="about">about</a></li>
+            <li class="nav_option" onclick="js_func_name()"><a class="nav_link" href="logs">logs</a></li>
         </ul>
     </div>
 
@@ -39,12 +39,12 @@
             <h1>About</h1>
 
             <p>
-                This is the webpage for the Fourth-Year Design Project of Philip DeCroos, Wesley Davis, Kyle Ferrier, and Aidan Donen.
+                This is the webpage for the Fourth-Year Design Project of Aidan Donen, Kyle Ferrier, Philip DeCroos, and Wesley Davis.
 
                 <br>
                 <br>
 
-                Please contact Philip (pdecroos@uwaterloo.ca) with any inquiries.
+                Please contact Phil with any inquiries -> pdecroos@uwaterloo.ca
             </p>
         </div>
     </div>
