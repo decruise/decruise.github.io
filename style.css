@@ -56,7 +56,7 @@ a {
     padding: 7px;
     border-radius: 10px;
     color: #000000;
-    background-color: #00cc00;
+    background-color: #bf77f6;
 }
 
 .button:hover {
@@ -67,7 +67,7 @@ a {
 /* Nav Bar */
 
 .nav_bar {
-    background-image: -webkit-linear-gradient(-45deg, #00cc00 30%, #ffffff 30%);
+    background-image: -webkit-linear-gradient(-45deg, #bf77f6 30%, #ffffff 30%);
     height: 5em;
     border-radius: 15px;
     top: 10px;
@@ -110,7 +110,7 @@ a {
     float: right;
     list-style-type: none;
     margin-left: 25px;
-    background-image: linear-gradient(to right, #00cc00 50%, #ffffff 50%);
+    background-image: linear-gradient(to right, #bf77f6 50%, #ffffff 50%);
     background-size: 200% 4px;
     background-repeat: no-repeat;
     background-position: 100% 100%;
@@ -182,7 +182,7 @@ a {
 .tile {
     text-decoration: none;
     width: 250px;
-    background-color: #00cc00;
+    background-color: #bf77f6;
     border-radius: 25px;
     display: box;
 }
