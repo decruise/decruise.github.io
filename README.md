@@ -1,3 +1,5 @@
-# long-board.github.io
+# decruise.github.io
 
-Website to present our capstone project and our progress logs.
+This is our website to present our capstone project and our progress logs.
+
+[https://decruise.ca](https://decruise.ca)
