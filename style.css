@@ -148,6 +148,7 @@ a {
 }
 
 .home_content {
+    text-align: center;
     width: 50%;
     margin-left: 25%;
     color: #f0f0f0;
@@ -158,6 +159,13 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+}
+
+.wide_image {
+    display: block;
+    margin-left: -25%;
+    margin-right: auto;
+    width: 150%;
 }
 
 .supporters {
@@ -203,7 +211,7 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: fit-content;
-    max-width: 85%;
+    max-width: 80%;
 }
 
 .body_list {
