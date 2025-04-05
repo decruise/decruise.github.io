@@ -91,8 +91,9 @@ a {
 
 .nav_title {
     font-family: "Bauhaus 93", sans-serif;
-    font-weight: 700;
+    font-weight: 550;       /* this was 700, decreased to 550 to make it look like the poster */
     font-size: 3em;
+    font-style: italic;
     width: 45%;
     float: left;
     position: relative;
