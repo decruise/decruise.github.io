@@ -6,6 +6,12 @@
 
 /* General Fonts */
 
+
+@font-face {
+    font-family: "Bauhaus";
+    src: url("bauhaus.ttf");
+}
+
 body {
     font-family: "Roboto", system-ui;
     color: #f0f0f0;
@@ -50,6 +56,13 @@ a {
     text-align: center;
 }
 
+.center_buttons {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
 .code {
     font-family: "DM Mono", monospace;
 }
@@ -90,7 +103,7 @@ a {
 }
 
 .nav_title {
-    font-family: "Bauhaus 93", sans-serif;
+    font-family: "Bauhaus", sans-serif;
     font-weight: 550;       /* this was 700, decreased to 550 to make it look like the poster */
     font-size: 3em;
     font-style: italic;
@@ -227,18 +240,20 @@ a {
 .tiles {
     color: #000000;
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
+    gap: 10px;
     padding: 20px;
+    margin-left: -25%;
+    margin-right: auto;
+    width: 150%;
 }
 
 .tile {
     text-decoration: none;
-    width: 250px;
+    width: 220px;
     background-color: #bf77f6;
     border-radius: 25px;
-    display: box;
+    display: block;
 }
 
 .tile_title {
@@ -248,7 +263,7 @@ a {
     width: 100%;
     margin: auto;
     margin-top: 15px;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .tile_subtitle {
